@@ -1,18 +1,3 @@
-#################################################
-
-ReadMe for assignment submitted by 2019B3PS0385P
-Practical Section Number: P3 (Sakshi Mam)
-Assignment Question Attempted: 1 
-
-##################################################
-
-Team Members :
-1. 2019B3PS0385P   Shobhit Jain
-2. 2019B5PS0713P   Aaryan Agarwal
-3. 2019B4PS0431P   Kunal Mall
-
-###################################################
-
 Description of how to run the code and observe the output:
 
 1. There is 1 input file "Question_File.txt". Keep it in same folder in which 2019B3PS0385P_P3.c is present. Introduction and all questions along with options including jackpot question are taken from it.
@@ -32,24 +17,5 @@ Description of how to run the code and observe the output:
 15. If you get the 16th question wrong, your winnings will reduce to 50 Lakhs from 1 Crore.
 16. Program will automatically terminate once you finish all questions, or decide to quit or gave any incorrect answer after showing your winnings and correct answer.
 17. Any information necessary at any point of the program is also provided in the program itself.
-
-#############################################################
-
-Known limitations - None
-
-#############################################################
-
-Contributions of the team members:
-
-Shobhit Jain (2019B3PS0385P) - Wrote code to take input i.e introduction and questions from Question_File.txt and store it in structure.
-                               Wrote,merged and managed whole code except of functions - fifty_fifty(), flipthequestion(), lifeline(), lost() and inputTaker().
-                               Did little bit of commenting.
-                               Made .zip of the project.
-
-Aaryan Agarwal (2019B5PS0713P) - Wrote functions - fifty_fifty(), flipthequestion(), lifeline(), lost() and inputTaker().
-                                 Did commenting of the program.
-
-Kunal Mall (2019B4PS0431P) - Wrote introduction and questions inside Question_File.txt
-                             Wrote instructions of how to run the code in ReadMe.txt
 
 #############################################################
