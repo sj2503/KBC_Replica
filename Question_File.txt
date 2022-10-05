@@ -1,0 +1,99 @@
+								       |----------------------|
+                                                    		       | KAUN BANEGA CRORPATI |
+                                                                       |----------------------|
+
+1. Intro to the game - Welcome to this game that goes by the name K.B.C. or widely known as 'Kaun Banega Crorepati'.\n I am your host A.B. and I am here to help you crack this nerve-racking game. I will try to sum up the rules of the game in the most efficient way possible.
+
+2. Rules of the game - There are a total of 16 questions, each question rewarding you a prize money corresponding to it. The higher you go up towards the later questions, the more prize money you would be taking home. 
+
+Questions	Prize Money
+16 		Rs. 7 crores
+15		Rs. 1 crore
+14		Rs. 50,00,000		
+13		Rs. 25,00,000	
+12		Rs. 12,50,000	
+11		Rs. 6,40,000	
+10		Rs. 3,20,000
+09		Rs. 1,60,000	
+08		Rs. 80,000	
+07		Rs. 40,000
+06		Rs. 20,000
+05		Rs. 10,000
+04		Rs. 5,000
+03		Rs. 3,000
+02		Rs. 2,000
+01		Rs. 1,000
+		   	
+3. Lifelines - To make this journey of yours easier we have provided you with two major lifelines i.e. "50-50",  upon selection of which, two wrong options would be removed from the screen, and "Flip the Question" that would replace the entire question with a new one on the screen. These lifelines can be availed only once during the game. 
+
+4. Quit -You also have an option to quit from the game anytime, in that case the money you have won till that question will be awarded to you irrespective of intermediate levels.
+
+5. Terminal -  If your selected option is correct, the corresponding prize money would be displayed on your screen. Otherwise, the prize money counter would be reduced to zero or to the intermediate level and displayed on the screen. 
+
+6. Intermediate Levels - The three intermediate levels are preselected for you and are set up to the questions 4, 8 and 12, respectively.
+
+So what are you waiting for? You are just one click away from becoming a Crorepati!~
+Q1.> What is the sum of the numbers of thieves in the popular story of Ali Baba and the total number of overs bowled in a T20 match?~1.> Forty~2.> Sixty~3.> Eighty~4.> Hundred~3~
+Q1.> The weight of diamonds is usually measured in what?~1.> Tola~2.> Carat~3.> Maund~4.> Troy~2~
+Q1.> Which of these following Hindi Idioms means to promise someone?~1.> Give your word~2.> Giving your hand~3.> Giving your heart~4.> Giving your shoulders~1~
+Q2.> Which of these pieces of clothing is named for its shape?~1.> Pyjamas~2.> Khakis~3.> Jeans~4.> T-Shirts~4~
+Q2.> Which of these is the name of a type of women's clothing?~1.> Padmini~2.> Man Bai~3.> Jodha~4.> Anarkali~4~
+Q2.> The National Register of Citizen (NRC) is the list of Indian citizens of which state?~1.> Sikkim~2.> Assam~3.> Meghalaya~4.> Arunachal Pradesh~2~
+Q3.> Which of these is a common type of Yogasana?~1.> Asanol~2.> Shavasana~3.> Sushasan~4.> Akarshan~2~
+Q3.> Which of these following is also the name of a popular Microsoft program?~1.> Paragraph~2.> Sentence~3.> Word~4.> Statement~3~
+Q3.> Which state of India has the shortest coastline?~1.> Goa~2.> Maharashtra~3.> Odisha~4.> West Bengal~1~
+Q4.> Samukha, Vighnaharta and Ekadanta are other names for which Hindu god?~1.> Brahma~2.> Krishna~3.> Rama~4.> Ganesha~4~
+Q4.> Common cold, polio and AIDS are diseases caused by which of these organisms?~1.> Bacteria~2.> Virus~3.> Protozoa~4.> Fungus~2~
+Q4.> In which of these sports do players try to hit the ball to make it touch the surface of the rival team's court to earn point?~1.> Baseball~2.> Volleyball~3.> Basketball~4.> Polo~2~
+Q5.> In which month are the harvest festivals Pongal, Magh Bihu and Lohri celebrated?~1.> February~2.> March~3.> April~4.> January~4~ 
+Q5.> In which of these sports would you normally see the referee running on the field?~1.> Cricket~2.> Football~3.> Badminton~4.> Tennis~2~
+Q5.> Vasant, Vinod, Mahasukh, Gautam and Rajesh are brothers related to which of these business families?~1.> Hinduja~2.> Adani~3.> Ambani~4.> Ruia~2~
+Q6.> Who is the first Indian woman wrestler to win a gold medal at the Asian Games?~1.> Sakshi Malik~2.> Babita Kumari~3.> Vinesh Phogat~4.> Kavita Devi~3~
+Q6.> Which of these measures is the shortest in length?~1.> Half mile~2.> Half foot~3.> Half yard~4.> Half metre~2~
+Q6.> In the abbreviation PNR, used while issuing rail or air tickets, what does R stand for?~1.> Reservation~2.> Record~3.> Registration~4.> Recognition~2~
+Q7.> According to WHO, which disease has been completely eradicated from the world by vaccination?~1.> Measles~2.> Polio~3.> Mumps~4.> Smallpox~4~
+Q7.> By what name is the 24-day Salt March of March-April 1930 also known as?~1.> Dilli Chalo~2.> Farmer's March~3.> Jail Bharo Andolan~4.> Dandi March~4~
+Q7.> Which film personality was awarded the 2018 Dadasaheb Phalke Award posthumously?~1.> Shashi Kapoor~2.> Om Puri~3.> Vinod Khanna~4.> Lekh Tandon~3~
+Q8.> Which Indian State had India's first Muslim woman chief Minister?~1.> Kerala~2.> Jammu & Kashmir~3.> Goa~4.> Assam~4~
+Q8.> Which of these planets has a solid surface?~1.> Mars~2.> Saturn~3.> Jupiter~4.> Uranus~1~
+Q8.> In Which century were the first two battles of Panipat fought?~1.> 15th~2.> 16th~3.> 18th~4.> 17th~2~
+Q9.> The twenty-seven daughters of Daksha collectively known as the Nakshatras, are the Wives of which god?~1.> Surya~2.> Chandra~3.> Mangal~4.> Budha~2~
+Q9.> Who became the first Indian to score a century before lunch in the opening session of a Test Match in June 2018?~1.> Lokesh Rahul~2.> Shikhar Dhawan~3.> Ajinkya Rahane~4.> Rohit Sharma~2~
+Q9.> In which state did the Bharatiya Janata Party form their government for the first time?~1.> Himachal Pradesh~2.> Sikkim~3.> Tripura~4.> Assam~4~
+Q10.> Who was declared as the winner of National Award for Best actress in 2018?~1.> Tabu~2.> Shabana Azmi~3.> Sridevi~4.> Sonam Kapoor~3~
+Q10.> What characteristics of a leopard is used by scientists to identify them individually?~1.> Pugmarks~2.> Spot patterns~3.> Tail~4.> Whiskers~2~
+Q10.> Where in the human body you can find Deltoid muscles?~1.> In your shoulder~2.> In your back~3.> Along the foot~4.> Along your forearm~1~
+Q11.> How many capital cities of Indian states contain the word Nagar in their names?~1.> Two~2.> Three~3.> One~4.> None~2~
+Q11.> Which of these national flags has the most number of stars on them?~1.> USA~2.> Brazil~3.> Australia~4.> New Zealand~1~
+Q11.> Which City hosted more than a lakh of people to perform yoga together and  created a Guinness World Record on the occasion of International Day of Yoga, 2018?~1.> Jaipur~2.> Jodhpur~3.> Kota~4.> Udaipur~3~ 
+Q12.> According to Hindu mythology, which of these plants was brought up during the churning of the milk ocean?~1.> Kamal~2.> Parijat~3.> Gulaab~4.> Tulsi~2~
+Q12.> Which of these is the name of a real chemical element in the Periodic table?~1.> Africium~2.> Asium~3.> Australium~4.> Europium~4~
+Q12.> Which of these Indus Valley Civilization site is not located in Gujarat?~1.> Lothal~2.> Rangpur~3.> Dholavira~4.> Rakhigarhi~4~
+Q13.> Which team racked up a world record score of 278 runs in T20 International cricket ?~1.> Ireland~2.> India~3.> Australia~4.> Afghanistan~4~
+Q13.> Which of these viruses takes its name from a place in Malaysia?~1.> Nipah~2.> Ebola~3.> Influenza~4.> HIV~1~ 
+Q13.> Niki Lauda was a great sportsperson of which sport?~1.> Judo~2.> Motor Racing~3.> Chess~4.> Cycling~2~
+Q14.> Which of these Mausoleum is located in Vijaypuri, Karnataka?~1.> Bibi Ka Makbara~2.> Safgarjangh's Tomb~3.> Gol Gumbaz~4.> Akbar's Tomb~3~
+Q14.> Which of these institutions is not located in the same city as the other three?~1.> Jawaharlal Nehru University~2.> Jamia Millia Islamia~3.> Maulana Azad Medical College~4.> Christian Medical College~4~
+Q14.> Who won his 12th French Open men's singles title in 2019?~1.> Roger Fredrer~2.> Rafael Nadal~3.> Dominic Thiem~4.> Noval Djokovic~2~
+Q15.> Who commanded the 'Hector', the first British trading ship to land at Surat?~1.> Paul Canning~2.> William Hawkins~3.> Thomas Roe~4.> James Lancaster~2~
+Q15.> Which poet in the court of Mughal ruler Bahadur Shah Zafar wrote the Dastan - e- Gadhar a personal account of the 1857 revolt?~1.> Mir Taqi Mir~2.> Mohammad Ibrahim Zauq~3.> Zaheer Dehlvi~4.> Abu Al-Kasim~3~
+Q15.> Among whom does the Indian Constitution permit to take part in the proceedings of Parliament?~1.> Solicitor General~2.> Attorney General~3.> Cabinet Secretary~4.> Chief Justice~2~
+Q16.> Who is the first cricketer to score two T20 International fifties on the same day in two different matches?~1.> Nawroz Mangal~2.> Mohammad Hafeez~3.> Mohammad Shahzad~4.> Shakib Al Hasan~3~
+Q16.> Who was the Indian bowler off whom Australian legend Don Bradman got a single to reach his 100th first class century?~1.> Baqa Jilani~2.> Commandur Rangachari~3.> Gogumal Kishenchand~4.> Kanwar Rai Singh~3~
+Q16.> What was the name of all the three soccer clubs set up with the help of Mahatama Gandhi in the early 20th century at Durban, Pretoria and Johannesburg?~1.> Truth Seekers~2.> Non-Violents~3.> Passive Resisters~4.> Non co-operators~3~
+That's amazing... You have won Rs. 1 Crore !!!!
+
+
+But wait... There is a lot more for you, you have an option to play a jackpot question which can turn your winnings from 1 Crore to 7 Crore !!!! But read the rules carefully and then decide whether you want to play it or not.
+
+
+The rules are :
+
+1.> You don't have an option to quit from the game in 16th Question, you have to answer it.
+
+2.> No Lifelines available for this question.
+
+3.> If you get this question correct you will get Rs. 7 Crore but if you get it wrong you will have to go home with Rs. 5000000 only.
+
+So do you wanna play this JACKPOT QUESTION??
+~
